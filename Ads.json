@@ -3,9 +3,9 @@
     "ShowAds":true,
     "ShowLoadingAds":true,
     "ClickCount":1,
-    "PriorityBanner":"max",
-    "priorityInterstitial":"max",
-    "PriorityNative":"max",
+    "PriorityBanner":"faecbook",
+    "priorityInterstitial":"facebook",
+    "PriorityNative":"facebook",
     "IronAppKey":"xxxxxxxx",
     "IronBanner":"DefaultBanner",
     "IronInterstitial":"DefaultInterstitial",
@@ -17,16 +17,16 @@
     "MaxBanner":"xxxxxxxx",
     "MaxInterstitial":"xxxxxxxx",
     "MaxNative":"xxxxxxxx",
-    "FanBanner":"",
-    "FanInterstitial":"",
-    "FanNative":""
+    "FanBanner":"1466896120821243_1466896817487840",
+    "FanInterstitial":"1466896120821243_1466897324154456",
+    "FanNative":"1466896120821243_1466897870821068"
   },
   "ControlApp":{
     "ShowFootballScoresWarning":false,
     "ShowCricketSCoresWarning":false,
     "PlayerPackageName":"com.gpt.ysfplayer",
     "OnesignalID":"",
-    "ShowUpdate":true,
+    "ShowUpdate":false,
     "UpdateVersion":1,
     "UpdateLink":"https://google.com"
     
